@@ -1,3 +1,3 @@
 v0.0.0.1
-Spotify@appx@https://pkrspls.github.io/repo_app/spotify.appx@spotify.appx
-Visual Studio Code@exe@https://pkrspls.github.io/repo_app/visual_studio_code.exe@visual_studio_code.exe
+Spotify@appx@https://pkrspls.github.io/repo_app/spotify.appx@spotify.appx@
+Visual Studio Code@exe@https://pkrspls.github.io/repo_app/visual_studio_code.exe@visual_studio_code.exe@
